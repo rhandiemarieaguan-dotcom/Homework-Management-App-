@@ -58,6 +58,7 @@ HomeworkManagementApp/
 │
 ├── main.py
 └── README.md
+text```
 
 How to Run the Application
 Requirements

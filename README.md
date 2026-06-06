@@ -87,7 +87,7 @@ Export Report Inside the Application
 1. Open the Report Tab.
 2. Click Generate Report.
 3. View the summary of completed, pending, and overdue homework.
-4. Export the report.
+4. Save the report.
 
 Developers
 

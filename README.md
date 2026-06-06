@@ -28,7 +28,7 @@ Technologies Used
 •	Local Data Storage for homework persistence
 
 Project Structure:
-
+'''
 HomeworkManagementApp/
 │
 ├── interfaces/
@@ -52,7 +52,7 @@ HomeworkManagementApp/
 ├── main.py
 │
 └── README.md
-
+'''
 How to Run the Application:
    Requirements python 3.x
    Clone the Repositories:

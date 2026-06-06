@@ -68,7 +68,7 @@ Requirements
 
 Clone the Repository
 
-git clone: https://github.com/rhandiemarieaguan-dotcom/Homework-ManagementApp-/tree/main
+git clone: https://github.com/rhandiemarieaguan-dotcom/Homework-Management-App- 
 
 Navigate to the Project Folder
 

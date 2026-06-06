@@ -58,6 +58,7 @@ HomeworkManagementApp/
 │
 ├── main.py
 └── README.md
+
 How to Run the Application
 Requirements
 Python 3.x
@@ -78,6 +79,7 @@ Open the Report Tab.
 Click Generate Report.
 View the summary of completed, pending, and overdue homework.
 Export the report.
+
 Developers
 Rhandie Marie A. Guan
 GitHub: https://github.com/rhandiemarieaguan-dotcom/CC-103⁠�
@@ -86,4 +88,5 @@ GitHub: https://github.com/aldredmon54-bot⁠�
 Aloha Jill M. Gozarin
 GitHub: https://github.com/gozarinalohajil⁠�
 Acknowledgment
+
 In partial fulfillment of the requirements for the subject CC103 Computer Programming 2 under the course Bachelor of Science in Information Technology at Sorsogon State University Bulan Campus, with the supervision of Professor John Mark Gabrentina.
